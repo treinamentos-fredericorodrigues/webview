@@ -64,7 +64,8 @@ O programa solicita ao usuário o salário mensal e o percentual de descontos. A
 
 ### Tela Principal
 
-<img width="564" height="628" alt="image" src="https://github.com/user-attachments/assets/20f31acc-bc82-4244-8fd9-86e134149ba3" />
+<img width="558" height="625" alt="image" src="https://github.com/user-attachments/assets/51096f41-c4de-4150-9ebe-5995ed087654" />
+
 
 ---
 
