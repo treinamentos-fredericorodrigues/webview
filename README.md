@@ -77,12 +77,7 @@ O arquivo executável (.exe) encontra-se na pasta:
 
 ```text
 executavel/
-```
 
-Para executar o programa, certifique-se de possuir o Java instalado e execute:
-
-```bash
-java -jar CalculadoraSalario.jar
 ```
 
 ### Código-Fonte
@@ -93,7 +88,7 @@ Os arquivos-fonte do projeto podem ser acessados e editados através do Eclipse 
 src/
 ```
 
-Nessa pasta encontram-se todas as classes Java utilizadas no desenvolvimento da aplicação.
+Nessa pasta encontram-se a subpasta calculo_salarios e o arquivo "Salários.java", este arquivo você terá acesso ao código de desenvolvimento.
 
 ---
 
